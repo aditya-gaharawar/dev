@@ -3,7 +3,7 @@ from pymongo import MongoClient
 
 class ExampleSpider(scrapy.Spider):
     name = "example"
-    start_urls = ['http://example.com']
+    start_urls = ['http://examples.com']
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)

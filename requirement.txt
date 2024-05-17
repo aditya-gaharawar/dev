@@ -1,0 +1,10 @@
+scrapy 
+pymongo
+opencv-python-headless
+nltk 
+pandas 
+torch 
+transformers
+fastapi 
+uvicorn 
+pymongo
